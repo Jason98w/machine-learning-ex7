@@ -1,0 +1,19 @@
+yziuL5mGZApGYBv4
+
+/usr/local/octave/3.8.0/bin/octave-3.8.0
+PS1('>>')
+>>datestr(clock())
+
+==                                   Part Name |     Score | Feedback
+==                                   --------- |     ----- | --------
+==            Find Closest Centroids (k-Means) |  30 /  30 | Nice work!
+==            Compute Centroid Means (k-Means) |  30 /  30 | Nice work!
+==                                         PCA |  20 /  20 | Nice work!
+==                          Project Data (PCA) |  10 /  10 | Nice work!
+==                          Recover Data (PCA) |  10 /  10 | Nice work!
+==                                   --------------------------------
+==                                             | 100 / 100 | 
+== 
+>>datestr(clock())
+ans = 03-Mar-2019 21:39:29
+>>
